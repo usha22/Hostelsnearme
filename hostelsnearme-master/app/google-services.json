@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378369081977",
+    "project_id": "temporal-genius-256508",
+    "storage_bucket": "temporal-genius-256508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378369081977:android:16d80af75b98dee1368aa8",
+        "android_client_info": {
+          "package_name": "com.rockstar.hostelsnearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378369081977-rc2mmq7jdph54tkt13jr61t3iresrphc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNruki47BSTlfrIY7Z7Ow86ZWAPDm2GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378369081977-rc2mmq7jdph54tkt13jr61t3iresrphc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
